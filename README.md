@@ -1,4 +1,4 @@
-**👋 Hello! I’m Jasmine Yamkum **
+**👋 Hello! I’m Jasmine Yamkum**
 
 - 👀 I’m interested in technology, coding and dance.
 - 🌱 I’m currently learning JavaScript, and HTML/CSS. 
