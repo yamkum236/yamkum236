@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yamkum236
+**👋 Hello! I’m Jasmine Yamkum -> @yamkum236**
 - 👀 I’m interested in technology, coding and dance.
 - 🌱 I’m currently learning JavaScript, and HTML/CSS. 
 - 💞️ I’m looking for a work placement currently.
