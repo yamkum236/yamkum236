@@ -1,8 +1,8 @@
 # Hello! I’m Jasmine Yamkum👋
 
 - 👀 I’m interested in technology, coding and dance.
-- 🌱 I’m currently learning JavaScript, and HTML/CSS. 
-- 💼 I’m looking for a work placement currently.
+- 🌱 I’m currently learning HTML/CSS and deleving into React. 
+- 💼 I’m looking for a work placement.
 - 📫 How to reach me LinkedIn: https://www.linkedin.com/in/jasmine-yamkum-b40685174/
 
 :heart::purple_heart::blue_heart::green_heart::yellow_heart: Always Learning :yellow_heart::green_heart::blue_heart::purple_heart::heart:
