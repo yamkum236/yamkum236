@@ -1,4 +1,4 @@
-# Hello! I’m Jasmine Yamkum👋
+# Hello! I’m Jasmine 👋
 
 - 👀 Passionate and very interested about the world of technology and coding. 
 - 📱 Keeping up-to date with all the latest news and technologies. 
